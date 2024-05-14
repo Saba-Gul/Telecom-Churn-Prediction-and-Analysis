@@ -27,9 +27,9 @@ Customer churn, also known as customer attrition, is a critical challenge for te
 - Selecting relevant features for modeling.
 
 ### Modeling Approach:
-- Explanation of logistic regression and random forest classifier.
-- Splitting data into training and testing sets.
-- Model selection and evaluation metrics.
+- Utilized logistic regression and random forest classifier.
+- Split data into training and testing sets.
+- Evaluated model performance using accuracy, precision, recall, and F1-score.
 
 ## Key Findings
 ### Interpretation of Model Results:
